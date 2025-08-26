@@ -70,7 +70,7 @@ Diabetes_Mellitus_classification/
 ![Correlation Heatmap](Correlation_heatmap.png)
 
 ### 📉 Confusion Matrices
-![Confusion Matrices](Confusion_matrices_all.png)
+![Confusion Matrices](confusion_matrices_all.png)
 
 ---
 
